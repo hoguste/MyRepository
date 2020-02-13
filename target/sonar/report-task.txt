@@ -1,0 +1,6 @@
+projectKey=com.adaming:projet
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.adaming:projet
+ceTaskId=AXA56tfxz1IW9uV5hG9I
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXA56tfxz1IW9uV5hG9I
